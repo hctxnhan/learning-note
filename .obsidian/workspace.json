@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ded10e0bdb7ad9",
+        "id": "3c54759045cc29e3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a69944bd91977d4",
+            "id": "1462aadee8b04fdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "8. Design a URL Shortener.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "545adc2aebdd72da",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "8. Design a URL Shortener.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "8. Design a URL Shortener.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "8. Design a URL Shortener.md"
+              }
             }
           }
         ]
@@ -138,24 +147,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a69944bd91977d4",
+  "active": "1462aadee8b04fdb",
   "lastOpenFiles": [
-    "Design System/1. Scale from 0 to M of users.md",
+    "Pasted image 20230419172901.png",
+    "Pasted image 20230419172344.png",
+    "Pasted image 20230419172327.png",
+    "Pasted image 20230419172040.png",
     "Design System/7. Design a unique ID generator in distributed systems.md",
-    "Design System/Images/Pasted image 20230419144833.png",
-    "Design System/Images/Pasted image 20230416120444.png",
-    "Design System/Images/Pasted image 20230419143803.png",
-    "Design System/Images/Pasted image 20230419150222.png",
-    "Design System/Images/Pasted image 20230419144440.png",
-    "Design System/Images/Pasted image 20230419144123.png",
+    "8. Design a URL Shortener.md",
+    "Pasted image 20230419170356.png",
+    "Pasted image 20230419170255.png",
+    "Pasted image 20230419170052.png",
+    "Pasted image 20230419165914.png",
+    "Pasted image 20230419165901.png",
+    "Pasted image 20230419165655.png",
+    "Pasted image 20230419165608.png",
+    "Design System/1. Scale from 0 to M of users.md",
     "Design System/2. Back-of-the-envelope Estimation.md",
     "Design System/4. Design a Rate Limiter.md",
     "Design System/6. Design a Key-Value Store.md",
     "Design System/5. Design Consistent Hashing.md",
-    "Design System/Images/Pasted image 20230419132416.png",
-    "Design System/Images/Pasted image 20230419141146.png",
-    "Design System/Images/Pasted image 20230419140601.png",
-    "Design System/Images/Pasted image 20230419140550.png",
     "NextJS/SWR Advanced.md",
     "NextJS/SWR.md",
     "NextJS/Routing.md",
