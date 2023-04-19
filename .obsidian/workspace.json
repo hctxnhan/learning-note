@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "42606b6e5dfeafe5",
+        "id": "873477d027d343ee",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0fc6fc09350b38",
+            "id": "18d6744536d93da5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Design System/5. Design Consistent Hashing.md",
-                "mode": "source",
-                "source": false
+                "file": "Design System/Images/Pasted image 20230419132416.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/5. Design Consistent Hashing.md",
+                "file": "Design System/Images/Pasted image 20230419132416.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/5. Design Consistent Hashing.md",
+                "file": "Design System/Images/Pasted image 20230419132416.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design System/5. Design Consistent Hashing.md"
+                "file": "Design System/Images/Pasted image 20230419132416.png"
               }
             }
           }
@@ -146,25 +144,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b0fc6fc09350b38",
+  "active": "08da6ddb0b51c0b5",
   "lastOpenFiles": [
-    "NextJS/Rendering.md",
-    "NextJS/Routing.md",
+    "Design System/6. Design a Key-Value Store.md",
+    "Design System/5. Design Consistent Hashing.md",
+    "Design System/Images/Pasted image 20230419141146.png",
+    "Design System/Images/Pasted image 20230419140601.png",
+    "Design System/Images/Pasted image 20230419140550.png",
+    "Design System/Images/Pasted image 20230419140446.png",
+    "Design System/Images/Pasted image 20230419140347.png",
+    "Design System/Images/Pasted image 20230419135652.png",
+    "Design System/Images/Pasted image 20230419132956.png",
+    "Design System/Images/Pasted image 20230419132416.png",
     "NextJS/SWR Advanced.md",
     "NextJS/SWR.md",
+    "NextJS/Routing.md",
+    "NextJS/Rendering.md",
     "NextJS/Data Fetching.md",
+    "Design System/1. Scale from 0 to M of users.md",
+    "Design System/4. Design a Rate Limiter.md",
+    "Design System/2. Back-of-the-envelope Estimation.md",
+    "Design System/Images/Pasted image 20230418161003.png",
+    "Untitled",
     "Images/Pasted image 20230417163106.png",
     "6. Design a Key-Value Store.md",
     "5. Design Consistent Hashing.md",
-    "Images",
-    "Images/Pasted image 20230417172652.png",
-    "Images/Pasted image 20230417172617.png",
-    "Images/Pasted image 20230417172252.png",
-    "Images/Pasted image 20230417171718.png",
-    "Images/Pasted image 20230417171628.png",
-    "Images/Pasted image 20230417170801.png",
-    "Images/Pasted image 20230417170745.png",
-    "Images/Pasted image 20230417170538.png",
-    "Images/Pasted image 20230417170517.png"
+    "Images"
   ]
 }
