@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "873477d027d343ee",
+        "id": "8df3825f4f9e9e92",
         "type": "tabs",
         "children": [
           {
-            "id": "18d6744536d93da5",
+            "id": "74144fd815e9b290",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Design System/1. Scale from 0 to M of users.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d53ed7c67abee346",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419132416.png"
+                "file": "Design System/Images/Pasted image 20230419143803.png"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419132416.png",
+                "file": "Design System/Images/Pasted image 20230419143803.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419132416.png",
+                "file": "Design System/Images/Pasted image 20230419143803.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419132416.png"
+                "file": "Design System/Images/Pasted image 20230419143803.png"
               }
             }
           }
@@ -144,29 +157,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08da6ddb0b51c0b5",
+  "active": "d53ed7c67abee346",
   "lastOpenFiles": [
+    "7. Design a unique ID generator in distributed systems.md",
+    "Design System/Images/Pasted image 20230419150222.png",
+    "Design System/Images/Pasted image 20230419144833.png",
+    "Design System/Images/Pasted image 20230419144440.png",
+    "Design System/Images/Pasted image 20230419144123.png",
+    "Design System/Images/Pasted image 20230419143803.png",
+    "Design System/1. Scale from 0 to M of users.md",
+    "Design System/2. Back-of-the-envelope Estimation.md",
+    "Design System/4. Design a Rate Limiter.md",
     "Design System/6. Design a Key-Value Store.md",
     "Design System/5. Design Consistent Hashing.md",
+    "Design System/Images/Pasted image 20230419132416.png",
     "Design System/Images/Pasted image 20230419141146.png",
     "Design System/Images/Pasted image 20230419140601.png",
     "Design System/Images/Pasted image 20230419140550.png",
     "Design System/Images/Pasted image 20230419140446.png",
-    "Design System/Images/Pasted image 20230419140347.png",
-    "Design System/Images/Pasted image 20230419135652.png",
-    "Design System/Images/Pasted image 20230419132956.png",
-    "Design System/Images/Pasted image 20230419132416.png",
     "NextJS/SWR Advanced.md",
     "NextJS/SWR.md",
     "NextJS/Routing.md",
     "NextJS/Rendering.md",
     "NextJS/Data Fetching.md",
-    "Design System/1. Scale from 0 to M of users.md",
-    "Design System/4. Design a Rate Limiter.md",
-    "Design System/2. Back-of-the-envelope Estimation.md",
-    "Design System/Images/Pasted image 20230418161003.png",
     "Untitled",
-    "Images/Pasted image 20230417163106.png",
     "6. Design a Key-Value Store.md",
     "5. Design Consistent Hashing.md",
     "Images"
