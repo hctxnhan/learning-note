@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8df3825f4f9e9e92",
+        "id": "f2ded10e0bdb7ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "74144fd815e9b290",
+            "id": "4a69944bd91977d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design System/1. Scale from 0 to M of users.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d53ed7c67abee346",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Design System/Images/Pasted image 20230419143803.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419143803.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419143803.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Design System/Images/Pasted image 20230419143803.png"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,15 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53ed7c67abee346",
+  "active": "4a69944bd91977d4",
   "lastOpenFiles": [
-    "7. Design a unique ID generator in distributed systems.md",
-    "Design System/Images/Pasted image 20230419150222.png",
+    "Design System/1. Scale from 0 to M of users.md",
+    "Design System/7. Design a unique ID generator in distributed systems.md",
     "Design System/Images/Pasted image 20230419144833.png",
+    "Design System/Images/Pasted image 20230416120444.png",
+    "Design System/Images/Pasted image 20230419143803.png",
+    "Design System/Images/Pasted image 20230419150222.png",
     "Design System/Images/Pasted image 20230419144440.png",
     "Design System/Images/Pasted image 20230419144123.png",
-    "Design System/Images/Pasted image 20230419143803.png",
-    "Design System/1. Scale from 0 to M of users.md",
     "Design System/2. Back-of-the-envelope Estimation.md",
     "Design System/4. Design a Rate Limiter.md",
     "Design System/6. Design a Key-Value Store.md",
@@ -174,7 +156,6 @@
     "Design System/Images/Pasted image 20230419141146.png",
     "Design System/Images/Pasted image 20230419140601.png",
     "Design System/Images/Pasted image 20230419140550.png",
-    "Design System/Images/Pasted image 20230419140446.png",
     "NextJS/SWR Advanced.md",
     "NextJS/SWR.md",
     "NextJS/Routing.md",
