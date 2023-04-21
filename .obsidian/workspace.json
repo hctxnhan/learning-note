@@ -16,8 +16,19 @@
                 "file": "Design System/Images/Pasted image 20230419164851.png"
               }
             }
+          },
+          {
+            "id": "e65fb4bb8be0ebb6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Design System/Images/Pasted image 20230420162547.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419164851.png",
+                "file": "Design System/Images/Pasted image 20230420162547.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419164851.png",
+                "file": "Design System/Images/Pasted image 20230420162547.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419164851.png"
+                "file": "Design System/Images/Pasted image 20230420162547.png"
               }
             }
           }
@@ -144,8 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1462aadee8b04fdb",
+  "active": "e65fb4bb8be0ebb6",
   "lastOpenFiles": [
+    "Design System/9. Design a Web Crawler.md",
+    "Design System/Images/Pasted image 20230421151543.png",
+    "Design System/Images/Pasted image 20230420171621.png",
+    "Design System/Images/Pasted image 20230419164851.png",
+    "Design System/Images/Pasted image 20230420162547.png",
     "Design System/8. Design a URL Shortener.md",
     "Design System/Images/Pasted image 20230419172901.png",
     "Design System/Images/Pasted image 20230419172344.png",
@@ -154,10 +170,6 @@
     "Design System/7. Design a unique ID generator in distributed systems.md",
     "Design System/Images/Pasted image 20230419170356.png",
     "Design System/Images/Pasted image 20230419170255.png",
-    "Design System/Images/Pasted image 20230419170052.png",
-    "Design System/Images/Pasted image 20230419165914.png",
-    "Design System/Images/Pasted image 20230419165901.png",
-    "Design System/Images/Pasted image 20230419165655.png",
     "Design System/1. Scale from 0 to M of users.md",
     "Design System/2. Back-of-the-envelope Estimation.md",
     "Design System/4. Design a Rate Limiter.md",
