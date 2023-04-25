@@ -11,9 +11,11 @@
             "id": "1462aadee8b04fdb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Design System/Images/Pasted image 20230419164851.png"
+                "file": "Design System/9. Design a Web Crawler.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -27,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "545adc2aebdd72da",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/Images/Pasted image 20230420162547.png",
+                "file": "Design System/9. Design a Web Crawler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/Images/Pasted image 20230420162547.png",
+                "file": "Design System/9. Design a Web Crawler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design System/Images/Pasted image 20230420162547.png"
+                "file": "Design System/9. Design a Web Crawler.md"
               }
             }
           }
@@ -155,13 +157,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e65fb4bb8be0ebb6",
+  "active": "1462aadee8b04fdb",
   "lastOpenFiles": [
+    "Pasted image 20230425174517.png",
+    "PV.md",
+    "Design System/Images/Pasted image 20230420162547.png",
     "Design System/9. Design a Web Crawler.md",
     "Design System/Images/Pasted image 20230421151543.png",
     "Design System/Images/Pasted image 20230420171621.png",
     "Design System/Images/Pasted image 20230419164851.png",
-    "Design System/Images/Pasted image 20230420162547.png",
     "Design System/8. Design a URL Shortener.md",
     "Design System/Images/Pasted image 20230419172901.png",
     "Design System/Images/Pasted image 20230419172344.png",
