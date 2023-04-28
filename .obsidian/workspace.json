@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1462aadee8b04fdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Design System/9. Design a Web Crawler.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e65fb4bb8be0ebb6",
+            "id": "a0e6c45c74d9c5fa",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Design System/Images/Pasted image 20230420162547.png"
+                "file": "Design System/Images/Pasted image 20230428151757.png"
               }
             }
           }
@@ -79,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "545adc2aebdd72da",
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design System/9. Design a Web Crawler.md",
+                "file": "Design System/Images/Pasted image 20230428151757.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Design System/9. Design a Web Crawler.md",
+                "file": "Design System/Images/Pasted image 20230428151757.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Design System/9. Design a Web Crawler.md"
+                "file": "Design System/Images/Pasted image 20230428151757.png"
               }
             }
           }
@@ -157,23 +144,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1462aadee8b04fdb",
+  "active": "a0e6c45c74d9c5fa",
   "lastOpenFiles": [
-    "Pasted image 20230425174517.png",
+    "Design System/9. Design a Web Crawler.md",
+    "Design System/Images/Pasted image 20230428160116.png",
+    "Design System/Images/Pasted image 20230428155002.png",
+    "Design System/Images/Pasted image 20230428153343.png",
+    "Design System/Images/Pasted image 20230428152955.png",
+    "Design System/Images/Pasted image 20230428152541.png",
+    "Design System/Images/Pasted image 20230428151757.png",
+    "Learn Github Actions.md",
+    "Design System/Images/Pasted image 20230425174517.png",
+    "Github Action",
     "PV.md",
     "Design System/Images/Pasted image 20230420162547.png",
-    "Design System/9. Design a Web Crawler.md",
     "Design System/Images/Pasted image 20230421151543.png",
     "Design System/Images/Pasted image 20230420171621.png",
-    "Design System/Images/Pasted image 20230419164851.png",
     "Design System/8. Design a URL Shortener.md",
-    "Design System/Images/Pasted image 20230419172901.png",
-    "Design System/Images/Pasted image 20230419172344.png",
-    "Design System/Images/Pasted image 20230419172327.png",
-    "Design System/Images/Pasted image 20230419172040.png",
     "Design System/7. Design a unique ID generator in distributed systems.md",
-    "Design System/Images/Pasted image 20230419170356.png",
-    "Design System/Images/Pasted image 20230419170255.png",
     "Design System/1. Scale from 0 to M of users.md",
     "Design System/2. Back-of-the-envelope Estimation.md",
     "Design System/4. Design a Rate Limiter.md",
@@ -184,7 +172,6 @@
     "NextJS/Routing.md",
     "NextJS/Rendering.md",
     "NextJS/Data Fetching.md",
-    "Untitled",
     "6. Design a Key-Value Store.md",
     "5. Design Consistent Hashing.md",
     "Images"
