@@ -13,24 +13,11 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Design System/Images/Pasted image 20230428151757.png"
-              }
-            }
-          },
-          {
-            "id": "48aff55a7a979d9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
-                "mode": "source",
-                "source": false
+                "file": "Design System/Images/Pasted image 20230504135153.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "545adc2aebdd72da",
@@ -97,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
+                "file": "Design System/Images/Pasted image 20230504135153.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
+                "file": "Design System/Images/Pasted image 20230504135153.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,22 +116,12 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "7826ab41850e2952",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -155,32 +131,34 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "48aff55a7a979d9a",
+  "active": "a0e6c45c74d9c5fa",
   "lastOpenFiles": [
-    "Pasted image 20230428173426.png",
-    "Pasted image 20230428173405.png",
-    "Pasted image 20230428172236.png",
-    "Pasted image 20230428165625.png",
-    "Pasted image 20230428165543.png",
-    "Design System/Images/Pasted image 20230428151757.png",
+    "Design System/11. Design a News Feed System.md",
+    "Design System/Images/Pasted image 20230504135153.png",
+    "Design System/Images/Pasted image 20230504110958.png",
+    "Design System/Images/Pasted image 20230504145544.png",
+    "Design System/Images/Pasted image 20230504145522.png",
+    "Design System/Images/Pasted image 20230504144009.png",
+    "Design System/Images/Pasted image 20230504142631.png",
+    "Design System/Images/Pasted image 20230504135802.png",
+    "Design System/Images/Pasted image 20230504135617.png",
+    "Design System/Images/Pasted image 20230504135329.png",
+    "Design System/Images/Pasted image 20230504135219.png",
+    "Design System/10. Design a Notification System.md",
+    "Design System/1. Scale from 0 to M of users.md",
+    "Design System/2. Back-of-the-envelope Estimation.md",
     "Database/Processing, Storing, and Organizing Data.md",
     "Database",
     "Design System/9. Design a Web Crawler.md",
-    "Design System/Images/Pasted image 20230428160116.png",
-    "Design System/Images/Pasted image 20230428155002.png",
-    "Design System/Images/Pasted image 20230428153343.png",
-    "Design System/Images/Pasted image 20230428152955.png",
-    "Design System/Images/Pasted image 20230428152541.png",
     "Learn Github Actions.md",
     "Github Action",
     "PV.md",
     "Design System/8. Design a URL Shortener.md",
     "Design System/7. Design a unique ID generator in distributed systems.md",
-    "Design System/1. Scale from 0 to M of users.md",
-    "Design System/2. Back-of-the-envelope Estimation.md",
     "Design System/4. Design a Rate Limiter.md",
     "Design System/6. Design a Key-Value Store.md",
     "Design System/5. Design Consistent Hashing.md",
