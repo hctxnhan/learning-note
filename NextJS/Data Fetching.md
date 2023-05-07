@@ -102,13 +102,9 @@ Nếu fetch data trong layout thì tất cả route segment nằm dưới nó ch
 Khi ta không dùng `fetch` được vì dùng third-party lib như ORM hay db client mà vẫn muốn control caching hay revalidating behavior của layout và page thì có thể phụ thuộc vào *default caching behavior* của segment hoặc *segment cache configuration*.
 
 ### Default Caching Behavior
-
 Data fetching libraries không dùng fetch trực tiếp thì sẽ không affect caching của route, nó là dynamic hay static phụ thuộc hoàn toàn vào route segment.
-
 ### Segment Cache Configuration
-
 Ta có thể customize cache behavior cho toàn bộ segment.
-
 ```js
 import prisma from './lib/prisma';
 
@@ -126,19 +122,13 @@ export default async function Page() {
 ```
 
 ---
-
 # Caching
-
 ## Segment-level Caching
-
 Cho phép ta cache và revalidate data sử dụng trong route segments.
-
 ```js
 export const revalidate = 60; // revalidate this page every 60 seconds
 ```
-
 Ngoài ta ta có thể dùng `fetch` cùng với `revalidate` option để revalidation route theo interval:
-
 ```js
 // revalidate this page every 10 seconds, since the getData's fetch
 // request has `revalidate: 10`.
@@ -156,8 +146,7 @@ export default async function Page() {
 Nếu page, layout và fetch cùng specify revalidation frequency thì value nào thấp nhất sẽ được chọn.
 
 ## Per-request Caching
-
-Những function nào ta không thể control được (third party lib chẳng hạn), ta có thể wrap nó bằng `cache()` để có được per-request caching behvior.
+Những function nào ta không thể control được (third party lib chẳng hạn), ta có thể wrap nó bằng `cache()` để có được per-request caching behavior.
 
 ### Preload
 

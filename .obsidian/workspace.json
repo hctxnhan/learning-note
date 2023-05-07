@@ -1,50 +1,39 @@
 {
   "main": {
-    "id": "a655a276c0d07f80",
+    "id": "44fdc24f26542890",
     "type": "split",
     "children": [
       {
-        "id": "3c54759045cc29e3",
+        "id": "467e32c28af19f31",
         "type": "tabs",
         "children": [
           {
-            "id": "a0e6c45c74d9c5fa",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Design System/Images/Pasted image 20230428151757.png"
-              }
-            }
-          },
-          {
-            "id": "48aff55a7a979d9a",
+            "id": "0e9578367f23c7f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
+                "file": "UI/2. Hierarchy is Everything.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dc8ac90147a0513e",
+    "id": "44b2c03785027bff",
     "type": "split",
     "children": [
       {
-        "id": "9b5e22de031ca0cd",
+        "id": "901c421cc1db7ac2",
         "type": "tabs",
         "children": [
           {
-            "id": "08da6ddb0b51c0b5",
+            "id": "841c633314adccd6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -54,7 +43,7 @@
             }
           },
           {
-            "id": "2b49cafd33fb5f63",
+            "id": "b562ac4a237f0593",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,10 +58,18 @@
             }
           },
           {
-            "id": "66a7d3c1dc49794a",
+            "id": "6c6dc1836c2939e6",
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "66c822414334c6b6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -80,24 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 247.5110321044922
   },
   "right": {
-    "id": "545adc2aebdd72da",
+    "id": "a468f3f808c0e802",
     "type": "split",
     "children": [
       {
-        "id": "a6f0bfb9b56c5725",
+        "id": "08eac596e2492a34",
         "type": "tabs",
         "children": [
           {
-            "id": "d34873c9286079f5",
+            "id": "bb9d326c23201f33",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
+                "file": "UI/2. Hierarchy is Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +105,19 @@
             }
           },
           {
-            "id": "6caecdcdef3e6cd8",
+            "id": "91e68f36683bc4b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md",
+                "file": "UI/2. Hierarchy is Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dcff0855351826b8",
+            "id": "ce0817fa71775d4e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +128,12 @@
             }
           },
           {
-            "id": "7826ab41850e2952",
+            "id": "343368f2bbd9c1b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Processing, Storing, and Organizing Data.md"
+                "file": "UI/2. Hierarchy is Everything.md"
               }
             }
           }
@@ -158,39 +154,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aff55a7a979d9a",
+  "active": "0e9578367f23c7f6",
   "lastOpenFiles": [
-    "Pasted image 20230428173426.png",
-    "Pasted image 20230428173405.png",
-    "Pasted image 20230428172236.png",
-    "Pasted image 20230428165625.png",
-    "Pasted image 20230428165543.png",
-    "Design System/Images/Pasted image 20230428151757.png",
-    "Database/Processing, Storing, and Organizing Data.md",
-    "Database",
+    "UI/1. Starting from Scratch.md",
+    "UI/2. Hierarchy is Everything.md",
+    "UI/3. Layout and Spacing.md",
+    "UI/4. Designing Text.md",
+    "UI/5. Working with Color.md",
+    "UI/6. Creating depth.md",
+    "UI/7. Working with Images.md",
+    "UI/8. Finishing Touches.md",
+    "UI/Images/Pasted image 20230507211625.png",
+    "UI/Images/Pasted image 20230507214227.png",
+    "UI/Images/Pasted image 20230507214150.png",
+    "UI/Images/Pasted image 20230507214133.png",
+    "UI/Images/Pasted image 20230507213534.png",
+    "UI/Images/Pasted image 20230507213519.png",
+    "UI/Images/Pasted image 20230507213503.png",
+    "UI/Images/Pasted image 20230507213142.png",
+    "UI/Images/Pasted image 20230507213016.png",
+    "UI/Images/Pasted image 20230507212954.png",
+    "UI/Images",
+    "Untitled 1",
+    "UI",
+    "Design System/10. Design a Notification System.md",
+    "NextJS/Routing.md",
+    "NextJS/Data Fetching.md",
+    "NextJS/Rendering.md",
     "Design System/9. Design a Web Crawler.md",
-    "Design System/Images/Pasted image 20230428160116.png",
-    "Design System/Images/Pasted image 20230428155002.png",
-    "Design System/Images/Pasted image 20230428153343.png",
-    "Design System/Images/Pasted image 20230428152955.png",
-    "Design System/Images/Pasted image 20230428152541.png",
-    "Learn Github Actions.md",
-    "Github Action",
-    "PV.md",
     "Design System/8. Design a URL Shortener.md",
     "Design System/7. Design a unique ID generator in distributed systems.md",
-    "Design System/1. Scale from 0 to M of users.md",
-    "Design System/2. Back-of-the-envelope Estimation.md",
-    "Design System/4. Design a Rate Limiter.md",
     "Design System/6. Design a Key-Value Store.md",
     "Design System/5. Design Consistent Hashing.md",
-    "NextJS/SWR Advanced.md",
+    "Design System/2. Back-of-the-envelope Estimation.md",
+    "Design System/1. Scale from 0 to M of users.md",
     "NextJS/SWR.md",
-    "NextJS/Routing.md",
-    "NextJS/Rendering.md",
-    "NextJS/Data Fetching.md",
-    "6. Design a Key-Value Store.md",
-    "5. Design Consistent Hashing.md",
-    "Images"
+    "NextJS/SWR Advanced.md",
+    "Prisma",
+    "Database/Processing, Storing, and Organizing Data.md",
+    "UI",
+    "Database/Images",
+    "Database",
+    "Design System/4. Design a Rate Limiter.md",
+    "NextJS",
+    "Design System/Images",
+    "Design System",
+    "1. Nodes & Scenes.md",
+    "1. Password Strength.md",
+    "Untitled.canvas"
   ]
 }

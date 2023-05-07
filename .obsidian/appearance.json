@@ -1,7 +1,7 @@
 {
   "accentColor": "#3599d0",
-  "baseFontSize": 22,
-  "cssTheme": "Things",
+  "baseFontSize": 18,
+  "cssTheme": "Atom",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter"
 }

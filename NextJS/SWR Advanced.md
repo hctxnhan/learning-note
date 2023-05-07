@@ -1,4 +1,4 @@
-﻿# Understanding SWR
+# Understanding SWR
 ## State Machine
 - `isValidating`: `true` bất cứ khi nào có request được gửi đi kể cả data đã load hay chưa.
 - `isLoading`: `true` bất cứ khi nào có request được gửi đi khi data chưa được load.

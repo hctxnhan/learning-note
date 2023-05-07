@@ -1,4 +1,4 @@
-﻿# API
+# API
 ```js
 const { data, error, isLoading, isValidating, mutate } = useSWR(key, fetcher, options)
 ```
